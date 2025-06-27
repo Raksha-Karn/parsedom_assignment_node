@@ -1,0 +1,9 @@
+{
+	"id": "acNnSIFSbnGY3GA",
+	"json": "{\"id\":\"acNnSIFSbnGY3GA\",\"url\":\"https://www.wedding-spot.com/venue/5252/lucky-strike-new-york/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5252/lucky-strike-new-york/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5252/lucky-strike-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:17.353Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5252/lucky-strike-new-york",
+	"url": "https://www.wedding-spot.com/venue/5252/lucky-strike-new-york/"
+}

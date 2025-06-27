@@ -1,0 +1,9 @@
+{
+	"id": "KqsjFJ7Bv5C1cJu",
+	"json": "{\"id\":\"KqsjFJ7Bv5C1cJu\",\"url\":\"https://www.wedding-spot.com/venue/8600/amarachi/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/8600/amarachi/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/8600/amarachi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:13.169Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/8600/amarachi",
+	"url": "https://www.wedding-spot.com/venue/8600/amarachi/"
+}

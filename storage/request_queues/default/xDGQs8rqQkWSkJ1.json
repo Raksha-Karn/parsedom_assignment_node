@@ -1,0 +1,9 @@
+{
+	"id": "xDGQs8rqQkWSkJ1",
+	"json": "{\"id\":\"xDGQs8rqQkWSkJ1\",\"url\":\"https://www.wedding-spot.com/venue/1431/inn-at-erlowest/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1431/inn-at-erlowest/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1431/inn-at-erlowest\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:18.868Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1431/inn-at-erlowest",
+	"url": "https://www.wedding-spot.com/venue/1431/inn-at-erlowest/"
+}

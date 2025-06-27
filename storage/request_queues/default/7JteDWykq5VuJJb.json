@@ -1,0 +1,9 @@
+{
+	"id": "7JteDWykq5VuJJb",
+	"json": "{\"id\":\"7JteDWykq5VuJJb\",\"url\":\"https://www.wedding-spot.com/venue/2380/new-york-marble-cemetery/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/2380/new-york-marble-cemetery/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/2380/new-york-marble-cemetery\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:39.520Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/2380/new-york-marble-cemetery",
+	"url": "https://www.wedding-spot.com/venue/2380/new-york-marble-cemetery/"
+}

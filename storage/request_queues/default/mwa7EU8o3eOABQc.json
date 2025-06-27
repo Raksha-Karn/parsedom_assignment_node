@@ -1,0 +1,9 @@
+{
+	"id": "mwa7EU8o3eOABQc",
+	"json": "{\"id\":\"mwa7EU8o3eOABQc\",\"url\":\"https://www.wedding-spot.com/venue/4010/hilton-garden-inn-philadephia-fort-washington/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4010/hilton-garden-inn-philadephia-fort-washington/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4010/hilton-garden-inn-philadephia-fort-washington\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:44.719Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/4010/hilton-garden-inn-philadephia-fort-washington",
+	"url": "https://www.wedding-spot.com/venue/4010/hilton-garden-inn-philadephia-fort-washington/"
+}

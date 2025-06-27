@@ -1,0 +1,9 @@
+{
+	"id": "VM0ynV8j0BUUOkQ",
+	"json": "{\"id\":\"VM0ynV8j0BUUOkQ\",\"url\":\"https://www.wedding-spot.com/venue/5254/cragsmoor-stone-church-chapel-of-the-holy-name/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5254/cragsmoor-stone-church-chapel-of-the-holy-name/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5254/cragsmoor-stone-church-chapel-of-the-holy-name\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:14.161Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5254/cragsmoor-stone-church-chapel-of-the-holy-name",
+	"url": "https://www.wedding-spot.com/venue/5254/cragsmoor-stone-church-chapel-of-the-holy-name/"
+}

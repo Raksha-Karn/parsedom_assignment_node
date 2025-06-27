@@ -1,0 +1,9 @@
+{
+	"id": "1hPxL3Oc6PHkTrf",
+	"json": "{\"id\":\"1hPxL3Oc6PHkTrf\",\"url\":\"https://www.wedding-spot.com/venue/793/sheraton-great-valley/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/793/sheraton-great-valley/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/793/sheraton-great-valley\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:39.150Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/793/sheraton-great-valley",
+	"url": "https://www.wedding-spot.com/venue/793/sheraton-great-valley/"
+}

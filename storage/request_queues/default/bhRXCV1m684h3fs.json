@@ -1,0 +1,9 @@
+{
+	"id": "bhRXCV1m684h3fs",
+	"json": "{\"id\":\"bhRXCV1m684h3fs\",\"url\":\"https://www.wedding-spot.com/venue/266/bat-haus/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/266/bat-haus/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/266/bat-haus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:44.893Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/266/bat-haus",
+	"url": "https://www.wedding-spot.com/venue/266/bat-haus/"
+}

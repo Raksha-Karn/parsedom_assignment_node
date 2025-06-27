@@ -1,0 +1,9 @@
+{
+	"id": "nxICbFvk7EVgetn",
+	"json": "{\"id\":\"nxICbFvk7EVgetn\",\"url\":\"https://www.wedding-spot.com/venue/11059/soldiers-sailors-marines-coast-guard-airmen-s-club-inc/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11059/soldiers-sailors-marines-coast-guard-airmen-s-club-inc/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11059/soldiers-sailors-marines-coast-guard-airmen-s-club-inc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:13.973Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11059/soldiers-sailors-marines-coast-guard-airmen-s-club-inc",
+	"url": "https://www.wedding-spot.com/venue/11059/soldiers-sailors-marines-coast-guard-airmen-s-club-inc/"
+}

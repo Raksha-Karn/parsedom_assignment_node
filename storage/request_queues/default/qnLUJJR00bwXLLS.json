@@ -1,0 +1,9 @@
+{
+	"id": "qnLUJJR00bwXLLS",
+	"json": "{\"id\":\"qnLUJJR00bwXLLS\",\"url\":\"https://www.wedding-spot.com/venue/13623/grapevine-farms/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13623/grapevine-farms/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13623/grapevine-farms\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:19.175Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13623/grapevine-farms",
+	"url": "https://www.wedding-spot.com/venue/13623/grapevine-farms/"
+}

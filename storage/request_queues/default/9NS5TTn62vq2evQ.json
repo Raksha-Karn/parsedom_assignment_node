@@ -1,0 +1,9 @@
+{
+	"id": "9NS5TTn62vq2evQ",
+	"json": "{\"id\":\"9NS5TTn62vq2evQ\",\"url\":\"https://www.wedding-spot.com/venue/5594/the-mouzon-house/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5594/the-mouzon-house/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5594/the-mouzon-house\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:15.489Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5594/the-mouzon-house",
+	"url": "https://www.wedding-spot.com/venue/5594/the-mouzon-house/"
+}

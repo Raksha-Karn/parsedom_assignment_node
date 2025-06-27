@@ -1,0 +1,9 @@
+{
+	"id": "nVVSDJKdt2BrPNd",
+	"json": "{\"id\":\"nVVSDJKdt2BrPNd\",\"url\":\"https://www.wedding-spot.com/venue/5539/lincklaen-house/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5539/lincklaen-house/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5539/lincklaen-house\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:14.822Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5539/lincklaen-house",
+	"url": "https://www.wedding-spot.com/venue/5539/lincklaen-house/"
+}

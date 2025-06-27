@@ -1,0 +1,9 @@
+{
+	"id": "42E7DAixbhyQiYb",
+	"json": "{\"id\":\"42E7DAixbhyQiYb\",\"url\":\"https://www.wedding-spot.com/venue/14614/holiday-inn-brooklyn-downtown/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/14614/holiday-inn-brooklyn-downtown/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/14614/holiday-inn-brooklyn-downtown\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:07.260Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/14614/holiday-inn-brooklyn-downtown",
+	"url": "https://www.wedding-spot.com/venue/14614/holiday-inn-brooklyn-downtown/"
+}

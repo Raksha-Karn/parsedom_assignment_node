@@ -1,0 +1,9 @@
+{
+	"id": "wlvzqguUbwmnAwH",
+	"json": "{\"id\":\"wlvzqguUbwmnAwH\",\"url\":\"https://www.wedding-spot.com/venue/4258/chestnut-hill-college/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4258/chestnut-hill-college/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4258/chestnut-hill-college\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:40.749Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/4258/chestnut-hill-college",
+	"url": "https://www.wedding-spot.com/venue/4258/chestnut-hill-college/"
+}

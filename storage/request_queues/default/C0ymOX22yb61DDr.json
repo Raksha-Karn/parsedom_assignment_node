@@ -1,0 +1,9 @@
+{
+	"id": "C0ymOX22yb61DDr",
+	"json": "{\"id\":\"C0ymOX22yb61DDr\",\"url\":\"https://www.wedding-spot.com/venue/3168/smoke-rise-village-inn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3168/smoke-rise-village-inn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3168/smoke-rise-village-inn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:49.813Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3168/smoke-rise-village-inn",
+	"url": "https://www.wedding-spot.com/venue/3168/smoke-rise-village-inn/"
+}

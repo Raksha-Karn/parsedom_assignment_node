@@ -1,0 +1,9 @@
+{
+	"id": "cFWutCyCOTRNyeF",
+	"json": "{\"id\":\"cFWutCyCOTRNyeF\",\"url\":\"https://www.wedding-spot.com/venue/1313/stone-house-at-stirling-ridge/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1313/stone-house-at-stirling-ridge/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1313/stone-house-at-stirling-ridge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:49.398Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1313/stone-house-at-stirling-ridge",
+	"url": "https://www.wedding-spot.com/venue/1313/stone-house-at-stirling-ridge/"
+}

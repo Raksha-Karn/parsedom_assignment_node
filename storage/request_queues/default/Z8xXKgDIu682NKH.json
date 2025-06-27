@@ -1,0 +1,9 @@
+{
+	"id": "Z8xXKgDIu682NKH",
+	"json": "{\"id\":\"Z8xXKgDIu682NKH\",\"url\":\"https://www.wedding-spot.com/venue/12874/1756-uwchlan-meeting-house/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12874/1756-uwchlan-meeting-house/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12874/1756-uwchlan-meeting-house\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:24.736Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12874/1756-uwchlan-meeting-house",
+	"url": "https://www.wedding-spot.com/venue/12874/1756-uwchlan-meeting-house/"
+}

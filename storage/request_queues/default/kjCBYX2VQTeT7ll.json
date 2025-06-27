@@ -1,0 +1,9 @@
+{
+	"id": "kjCBYX2VQTeT7ll",
+	"json": "{\"id\":\"kjCBYX2VQTeT7ll\",\"url\":\"https://www.wedding-spot.com/venue/9252/mirbeau-inn-spa/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9252/mirbeau-inn-spa/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9252/mirbeau-inn-spa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:03.948Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9252/mirbeau-inn-spa",
+	"url": "https://www.wedding-spot.com/venue/9252/mirbeau-inn-spa/"
+}

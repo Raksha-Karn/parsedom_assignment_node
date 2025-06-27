@@ -1,0 +1,9 @@
+{
+	"id": "UreY20kxkwuUUIK",
+	"json": "{\"id\":\"UreY20kxkwuUUIK\",\"url\":\"https://www.wedding-spot.com/venue/819/maggios-ballroom-at-hampton-square/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/819/maggios-ballroom-at-hampton-square/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/819/maggios-ballroom-at-hampton-square\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:30.570Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/819/maggios-ballroom-at-hampton-square",
+	"url": "https://www.wedding-spot.com/venue/819/maggios-ballroom-at-hampton-square/"
+}

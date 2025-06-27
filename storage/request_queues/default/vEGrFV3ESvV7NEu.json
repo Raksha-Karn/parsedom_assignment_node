@@ -1,0 +1,9 @@
+{
+	"id": "vEGrFV3ESvV7NEu",
+	"json": "{\"id\":\"vEGrFV3ESvV7NEu\",\"url\":\"https://www.wedding-spot.com/venue/3553/la-luna-banquet-hall/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3553/la-luna-banquet-hall/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3553/la-luna-banquet-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:35.033Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3553/la-luna-banquet-hall",
+	"url": "https://www.wedding-spot.com/venue/3553/la-luna-banquet-hall/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "2XWDbN9sg4aEFCc",
+	"json": "{\"id\":\"2XWDbN9sg4aEFCc\",\"url\":\"https://www.wedding-spot.com/venue/11083/events-the-foundry/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11083/events-the-foundry/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11083/events-the-foundry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:19.191Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11083/events-the-foundry",
+	"url": "https://www.wedding-spot.com/venue/11083/events-the-foundry/"
+}

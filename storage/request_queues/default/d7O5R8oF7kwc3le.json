@@ -1,0 +1,9 @@
+{
+	"id": "d7O5R8oF7kwc3le",
+	"json": "{\"id\":\"d7O5R8oF7kwc3le\",\"url\":\"https://www.wedding-spot.com/venue/1739/park-avenue-winter/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1739/park-avenue-winter/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1739/park-avenue-winter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:40.331Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1739/park-avenue-winter",
+	"url": "https://www.wedding-spot.com/venue/1739/park-avenue-winter/"
+}

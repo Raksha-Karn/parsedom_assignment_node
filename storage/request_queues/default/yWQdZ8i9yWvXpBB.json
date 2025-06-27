@@ -1,0 +1,9 @@
+{
+	"id": "yWQdZ8i9yWvXpBB",
+	"json": "{\"id\":\"yWQdZ8i9yWvXpBB\",\"url\":\"https://www.wedding-spot.com/venue/12798/the-columbia-inn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12798/the-columbia-inn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12798/the-columbia-inn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:55.315Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12798/the-columbia-inn",
+	"url": "https://www.wedding-spot.com/venue/12798/the-columbia-inn/"
+}

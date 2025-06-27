@@ -1,0 +1,9 @@
+{
+	"id": "XPuXGCx4BMAJJDv",
+	"json": "{\"id\":\"XPuXGCx4BMAJJDv\",\"url\":\"https://www.wedding-spot.com/venue/12725/historic-dunkirk-lighthouse/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12725/historic-dunkirk-lighthouse/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12725/historic-dunkirk-lighthouse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:03.723Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12725/historic-dunkirk-lighthouse",
+	"url": "https://www.wedding-spot.com/venue/12725/historic-dunkirk-lighthouse/"
+}

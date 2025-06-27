@@ -1,0 +1,9 @@
+{
+	"id": "22mbnTiuZhHebP7",
+	"json": "{\"id\":\"22mbnTiuZhHebP7\",\"url\":\"https://www.wedding-spot.com/venue/11486/chapel-hill-golf-course/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11486/chapel-hill-golf-course/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11486/chapel-hill-golf-course\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:11.146Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11486/chapel-hill-golf-course",
+	"url": "https://www.wedding-spot.com/venue/11486/chapel-hill-golf-course/"
+}

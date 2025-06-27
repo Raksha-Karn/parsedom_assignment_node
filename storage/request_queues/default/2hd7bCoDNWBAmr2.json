@@ -1,0 +1,9 @@
+{
+	"id": "2hd7bCoDNWBAmr2",
+	"json": "{\"id\":\"2hd7bCoDNWBAmr2\",\"url\":\"https://www.wedding-spot.com/venue/7224/nautical-holidays-eastern-star/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/7224/nautical-holidays-eastern-star/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/7224/nautical-holidays-eastern-star\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:54.611Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/7224/nautical-holidays-eastern-star",
+	"url": "https://www.wedding-spot.com/venue/7224/nautical-holidays-eastern-star/"
+}

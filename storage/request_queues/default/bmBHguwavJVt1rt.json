@@ -1,0 +1,9 @@
+{
+	"id": "bmBHguwavJVt1rt",
+	"json": "{\"id\":\"bmBHguwavJVt1rt\",\"url\":\"https://www.wedding-spot.com/venue/6163/phoenixville-country-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/6163/phoenixville-country-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/6163/phoenixville-country-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:42.646Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/6163/phoenixville-country-club",
+	"url": "https://www.wedding-spot.com/venue/6163/phoenixville-country-club/"
+}

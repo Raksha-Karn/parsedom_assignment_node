@@ -1,0 +1,9 @@
+{
+	"id": "AkosW0JNumM6h07",
+	"json": "{\"id\":\"AkosW0JNumM6h07\",\"url\":\"https://www.wedding-spot.com/venue/9803/tlo-event-complex/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9803/tlo-event-complex/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9803/tlo-event-complex\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:32.915Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9803/tlo-event-complex",
+	"url": "https://www.wedding-spot.com/venue/9803/tlo-event-complex/"
+}

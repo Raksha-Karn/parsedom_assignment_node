@@ -1,0 +1,9 @@
+{
+	"id": "Mnaz5k4mMWyOHDh",
+	"json": "{\"id\":\"Mnaz5k4mMWyOHDh\",\"url\":\"https://www.wedding-spot.com/venue/9860/valentinos-banquet-hall/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9860/valentinos-banquet-hall/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9860/valentinos-banquet-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:13.511Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9860/valentinos-banquet-hall",
+	"url": "https://www.wedding-spot.com/venue/9860/valentinos-banquet-hall/"
+}

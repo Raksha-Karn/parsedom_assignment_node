@@ -1,0 +1,9 @@
+{
+	"id": "CERPT6yQdAdpqRn",
+	"json": "{\"id\":\"CERPT6yQdAdpqRn\",\"url\":\"https://www.wedding-spot.com/venue/5538/mansion-on-delaware-avenue/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5538/mansion-on-delaware-avenue/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5538/mansion-on-delaware-avenue\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:00.555Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5538/mansion-on-delaware-avenue",
+	"url": "https://www.wedding-spot.com/venue/5538/mansion-on-delaware-avenue/"
+}

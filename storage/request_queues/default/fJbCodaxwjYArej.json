@@ -1,0 +1,9 @@
+{
+	"id": "fJbCodaxwjYArej",
+	"json": "{\"id\":\"fJbCodaxwjYArej\",\"url\":\"https://www.wedding-spot.com/venue/5222/new-york-water-taxi/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5222/new-york-water-taxi/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5222/new-york-water-taxi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:56.961Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5222/new-york-water-taxi",
+	"url": "https://www.wedding-spot.com/venue/5222/new-york-water-taxi/"
+}

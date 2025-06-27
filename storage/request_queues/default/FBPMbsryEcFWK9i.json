@@ -1,0 +1,9 @@
+{
+	"id": "FBPMbsryEcFWK9i",
+	"json": "{\"id\":\"FBPMbsryEcFWK9i\",\"url\":\"https://www.wedding-spot.com/venue/4581/the-carlyle-a-rosewood-hotel/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4581/the-carlyle-a-rosewood-hotel/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4581/the-carlyle-a-rosewood-hotel\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:28.277Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/4581/the-carlyle-a-rosewood-hotel",
+	"url": "https://www.wedding-spot.com/venue/4581/the-carlyle-a-rosewood-hotel/"
+}

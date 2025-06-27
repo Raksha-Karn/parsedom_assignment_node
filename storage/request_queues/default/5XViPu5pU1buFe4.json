@@ -1,0 +1,9 @@
+{
+	"id": "5XViPu5pU1buFe4",
+	"json": "{\"id\":\"5XViPu5pU1buFe4\",\"url\":\"https://www.wedding-spot.com/venue/11253/barnes-hiscock-mansion/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11253/barnes-hiscock-mansion/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11253/barnes-hiscock-mansion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:21.431Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11253/barnes-hiscock-mansion",
+	"url": "https://www.wedding-spot.com/venue/11253/barnes-hiscock-mansion/"
+}

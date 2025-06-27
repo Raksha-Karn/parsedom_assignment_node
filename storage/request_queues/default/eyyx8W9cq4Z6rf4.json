@@ -1,0 +1,9 @@
+{
+	"id": "eyyx8W9cq4Z6rf4",
+	"json": "{\"id\":\"eyyx8W9cq4Z6rf4\",\"url\":\"https://www.wedding-spot.com/venue/6533/hilton-garden-inn-rockaway/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/6533/hilton-garden-inn-rockaway/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/6533/hilton-garden-inn-rockaway\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:55.745Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/6533/hilton-garden-inn-rockaway",
+	"url": "https://www.wedding-spot.com/venue/6533/hilton-garden-inn-rockaway/"
+}

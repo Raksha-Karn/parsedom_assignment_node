@@ -1,0 +1,9 @@
+{
+	"id": "2lNxQTVB8rTTptp",
+	"json": "{\"id\":\"2lNxQTVB8rTTptp\",\"url\":\"https://www.wedding-spot.com/venue/5155/buffalo-niagara-heritage-village/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5155/buffalo-niagara-heritage-village/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5155/buffalo-niagara-heritage-village\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:59.113Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5155/buffalo-niagara-heritage-village",
+	"url": "https://www.wedding-spot.com/venue/5155/buffalo-niagara-heritage-village/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "L4F9IZFVvtJdkU3",
+	"json": "{\"id\":\"L4F9IZFVvtJdkU3\",\"url\":\"https://www.wedding-spot.com/venue/698/garden-vista-ballroom/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/698/garden-vista-ballroom/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/698/garden-vista-ballroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:55.636Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/698/garden-vista-ballroom",
+	"url": "https://www.wedding-spot.com/venue/698/garden-vista-ballroom/"
+}

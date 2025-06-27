@@ -1,0 +1,9 @@
+{
+	"id": "uyRdUkoKfnnTxHV",
+	"json": "{\"id\":\"uyRdUkoKfnnTxHV\",\"url\":\"https://www.wedding-spot.com/venue/16463/workhorse-brewing-company/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/16463/workhorse-brewing-company/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/16463/workhorse-brewing-company\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:00.326Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/16463/workhorse-brewing-company",
+	"url": "https://www.wedding-spot.com/venue/16463/workhorse-brewing-company/"
+}

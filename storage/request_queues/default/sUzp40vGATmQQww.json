@@ -1,0 +1,9 @@
+{
+	"id": "sUzp40vGATmQQww",
+	"json": "{\"id\":\"sUzp40vGATmQQww\",\"url\":\"https://www.wedding-spot.com/venue/10024/marine-park-golf-course/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10024/marine-park-golf-course/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10024/marine-park-golf-course\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:33.671Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/10024/marine-park-golf-course",
+	"url": "https://www.wedding-spot.com/venue/10024/marine-park-golf-course/"
+}

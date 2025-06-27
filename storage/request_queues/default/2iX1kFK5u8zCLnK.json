@@ -1,0 +1,9 @@
+{
+	"id": "2iX1kFK5u8zCLnK",
+	"json": "{\"id\":\"2iX1kFK5u8zCLnK\",\"url\":\"https://www.wedding-spot.com/venue/12719/the-parlour/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12719/the-parlour/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12719/the-parlour\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:21.931Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12719/the-parlour",
+	"url": "https://www.wedding-spot.com/venue/12719/the-parlour/"
+}

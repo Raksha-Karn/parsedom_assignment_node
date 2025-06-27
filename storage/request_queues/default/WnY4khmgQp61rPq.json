@@ -1,0 +1,9 @@
+{
+	"id": "WnY4khmgQp61rPq",
+	"json": "{\"id\":\"WnY4khmgQp61rPq\",\"url\":\"https://www.wedding-spot.com/venue/1217/the-james-ward-mansion/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1217/the-james-ward-mansion/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1217/the-james-ward-mansion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:49.231Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1217/the-james-ward-mansion",
+	"url": "https://www.wedding-spot.com/venue/1217/the-james-ward-mansion/"
+}

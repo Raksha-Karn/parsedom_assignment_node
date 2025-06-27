@@ -1,0 +1,9 @@
+{
+	"id": "Z5AfwXSroHHwIUI",
+	"json": "{\"id\":\"Z5AfwXSroHHwIUI\",\"url\":\"https://www.wedding-spot.com/venue/12791/the-georgi-on-the-battenkill/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12791/the-georgi-on-the-battenkill/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12791/the-georgi-on-the-battenkill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:19.694Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12791/the-georgi-on-the-battenkill",
+	"url": "https://www.wedding-spot.com/venue/12791/the-georgi-on-the-battenkill/"
+}

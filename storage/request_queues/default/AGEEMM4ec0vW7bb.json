@@ -1,0 +1,9 @@
+{
+	"id": "AGEEMM4ec0vW7bb",
+	"json": "{\"id\":\"AGEEMM4ec0vW7bb\",\"url\":\"https://www.wedding-spot.com/venue/2351/shop-studios/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/2351/shop-studios/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/2351/shop-studios\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:34.052Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/2351/shop-studios",
+	"url": "https://www.wedding-spot.com/venue/2351/shop-studios/"
+}

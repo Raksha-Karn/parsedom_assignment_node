@@ -1,0 +1,9 @@
+{
+	"id": "hopI2v4ZfybOtU6",
+	"json": "{\"id\":\"hopI2v4ZfybOtU6\",\"url\":\"https://www.wedding-spot.com/venue/9382/mahopac-golf-and-beach-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9382/mahopac-golf-and-beach-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9382/mahopac-golf-and-beach-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:20.344Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9382/mahopac-golf-and-beach-club",
+	"url": "https://www.wedding-spot.com/venue/9382/mahopac-golf-and-beach-club/"
+}

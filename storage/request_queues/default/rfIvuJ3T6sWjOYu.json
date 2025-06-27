@@ -1,0 +1,9 @@
+{
+	"id": "rfIvuJ3T6sWjOYu",
+	"json": "{\"id\":\"rfIvuJ3T6sWjOYu\",\"url\":\"https://www.wedding-spot.com/venue/13567/bayside-historical-society/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13567/bayside-historical-society/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13567/bayside-historical-society\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:00.563Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13567/bayside-historical-society",
+	"url": "https://www.wedding-spot.com/venue/13567/bayside-historical-society/"
+}

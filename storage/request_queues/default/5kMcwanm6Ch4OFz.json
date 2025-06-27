@@ -1,0 +1,9 @@
+{
+	"id": "5kMcwanm6Ch4OFz",
+	"json": "{\"id\":\"5kMcwanm6Ch4OFz\",\"url\":\"https://www.wedding-spot.com/venue/13677/forest-road-park-building/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13677/forest-road-park-building/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13677/forest-road-park-building\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:55.955Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13677/forest-road-park-building",
+	"url": "https://www.wedding-spot.com/venue/13677/forest-road-park-building/"
+}

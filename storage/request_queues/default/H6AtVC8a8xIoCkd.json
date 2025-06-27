@@ -1,0 +1,9 @@
+{
+	"id": "H6AtVC8a8xIoCkd",
+	"json": "{\"id\":\"H6AtVC8a8xIoCkd\",\"url\":\"https://www.wedding-spot.com/venue/2230/the-waterfront/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/2230/the-waterfront/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/2230/the-waterfront\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:43.207Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/2230/the-waterfront",
+	"url": "https://www.wedding-spot.com/venue/2230/the-waterfront/"
+}

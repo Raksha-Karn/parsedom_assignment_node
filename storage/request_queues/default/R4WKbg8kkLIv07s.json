@@ -1,0 +1,9 @@
+{
+	"id": "R4WKbg8kkLIv07s",
+	"json": "{\"id\":\"R4WKbg8kkLIv07s\",\"url\":\"https://www.wedding-spot.com/venue/1876/jumping-brook-country-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1876/jumping-brook-country-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1876/jumping-brook-country-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:48.319Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1876/jumping-brook-country-club",
+	"url": "https://www.wedding-spot.com/venue/1876/jumping-brook-country-club/"
+}

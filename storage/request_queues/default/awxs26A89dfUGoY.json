@@ -1,0 +1,9 @@
+{
+	"id": "awxs26A89dfUGoY",
+	"json": "{\"id\":\"awxs26A89dfUGoY\",\"url\":\"https://www.wedding-spot.com/venue/1138/plattekill-mountain/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1138/plattekill-mountain/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1138/plattekill-mountain\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:15.686Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1138/plattekill-mountain",
+	"url": "https://www.wedding-spot.com/venue/1138/plattekill-mountain/"
+}

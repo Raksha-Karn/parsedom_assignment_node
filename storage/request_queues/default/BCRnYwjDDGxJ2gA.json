@@ -1,0 +1,9 @@
+{
+	"id": "BCRnYwjDDGxJ2gA",
+	"json": "{\"id\":\"BCRnYwjDDGxJ2gA\",\"url\":\"https://www.wedding-spot.com/venue/2519/red-maple-vineyard/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/2519/red-maple-vineyard/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/2519/red-maple-vineyard\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:15.269Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/2519/red-maple-vineyard",
+	"url": "https://www.wedding-spot.com/venue/2519/red-maple-vineyard/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "IozJ0fF8LHFK0Wu",
+	"json": "{\"id\":\"IozJ0fF8LHFK0Wu\",\"url\":\"https://www.wedding-spot.com/venue/3287/suite-116/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3287/suite-116/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3287/suite-116\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:48.448Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3287/suite-116",
+	"url": "https://www.wedding-spot.com/venue/3287/suite-116/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Mfwghxr0BM0hi1N",
+	"json": "{\"id\":\"Mfwghxr0BM0hi1N\",\"url\":\"https://www.wedding-spot.com/venue/1816/queens-zoo/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1816/queens-zoo/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1816/queens-zoo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:00.236Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1816/queens-zoo",
+	"url": "https://www.wedding-spot.com/venue/1816/queens-zoo/"
+}

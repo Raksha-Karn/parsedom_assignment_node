@@ -1,0 +1,9 @@
+{
+	"id": "1MGY3wLonYepTRk",
+	"json": "{\"id\":\"1MGY3wLonYepTRk\",\"url\":\"https://www.wedding-spot.com/venue/827/independence-seaport-museum/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/827/independence-seaport-museum/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/827/independence-seaport-museum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:28.898Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/827/independence-seaport-museum",
+	"url": "https://www.wedding-spot.com/venue/827/independence-seaport-museum/"
+}

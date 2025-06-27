@@ -1,0 +1,9 @@
+{
+	"id": "B3witSicI9Xfn8B",
+	"json": "{\"id\":\"B3witSicI9Xfn8B\",\"url\":\"https://www.wedding-spot.com/venue/1301/hotel-indigo-east-end/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1301/hotel-indigo-east-end/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1301/hotel-indigo-east-end\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:32.789Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1301/hotel-indigo-east-end",
+	"url": "https://www.wedding-spot.com/venue/1301/hotel-indigo-east-end/"
+}

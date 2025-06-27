@@ -1,0 +1,9 @@
+{
+	"id": "CFQuJzoYVkzB9sv",
+	"json": "{\"id\":\"CFQuJzoYVkzB9sv\",\"url\":\"https://www.wedding-spot.com/venue/1766/lake-george-waterfront-cruises/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1766/lake-george-waterfront-cruises/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1766/lake-george-waterfront-cruises\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:16.090Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1766/lake-george-waterfront-cruises",
+	"url": "https://www.wedding-spot.com/venue/1766/lake-george-waterfront-cruises/"
+}

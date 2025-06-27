@@ -1,0 +1,9 @@
+{
+	"id": "EWn12IKKG9cyTgN",
+	"json": "{\"id\":\"EWn12IKKG9cyTgN\",\"url\":\"https://www.wedding-spot.com/venue/9190/tim-mcloones-supper-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9190/tim-mcloones-supper-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9190/tim-mcloones-supper-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:38.372Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9190/tim-mcloones-supper-club",
+	"url": "https://www.wedding-spot.com/venue/9190/tim-mcloones-supper-club/"
+}

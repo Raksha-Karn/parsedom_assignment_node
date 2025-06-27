@@ -1,0 +1,9 @@
+{
+	"id": "QDvaVpbN3YytEin",
+	"json": "{\"id\":\"QDvaVpbN3YytEin\",\"url\":\"https://www.wedding-spot.com/venue/1501/philadelphia-marriott-downtown/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1501/philadelphia-marriott-downtown/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1501/philadelphia-marriott-downtown\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:34.602Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1501/philadelphia-marriott-downtown",
+	"url": "https://www.wedding-spot.com/venue/1501/philadelphia-marriott-downtown/"
+}

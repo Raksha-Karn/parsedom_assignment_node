@@ -1,0 +1,9 @@
+{
+	"id": "IG1pTUJiIZ0FXBg",
+	"json": "{\"id\":\"IG1pTUJiIZ0FXBg\",\"url\":\"https://www.wedding-spot.com/venue/11170/rochester-brainery/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11170/rochester-brainery/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11170/rochester-brainery\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:59.836Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11170/rochester-brainery",
+	"url": "https://www.wedding-spot.com/venue/11170/rochester-brainery/"
+}

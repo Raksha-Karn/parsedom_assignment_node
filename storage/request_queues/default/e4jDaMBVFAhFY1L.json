@@ -1,0 +1,9 @@
+{
+	"id": "e4jDaMBVFAhFY1L",
+	"json": "{\"id\":\"e4jDaMBVFAhFY1L\",\"url\":\"https://www.wedding-spot.com/venue/12713/stand-up-ny/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12713/stand-up-ny/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12713/stand-up-ny\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:21.592Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12713/stand-up-ny",
+	"url": "https://www.wedding-spot.com/venue/12713/stand-up-ny/"
+}

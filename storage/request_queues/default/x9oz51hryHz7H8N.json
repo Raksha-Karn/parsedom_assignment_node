@@ -1,0 +1,9 @@
+{
+	"id": "x9oz51hryHz7H8N",
+	"json": "{\"id\":\"x9oz51hryHz7H8N\",\"url\":\"https://www.wedding-spot.com/venue/9258/cromwell-manor-inn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9258/cromwell-manor-inn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9258/cromwell-manor-inn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:15.082Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9258/cromwell-manor-inn",
+	"url": "https://www.wedding-spot.com/venue/9258/cromwell-manor-inn/"
+}

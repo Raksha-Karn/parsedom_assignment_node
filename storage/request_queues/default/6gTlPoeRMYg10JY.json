@@ -1,0 +1,9 @@
+{
+	"id": "6gTlPoeRMYg10JY",
+	"json": "{\"id\":\"6gTlPoeRMYg10JY\",\"url\":\"https://www.wedding-spot.com/venue/13596/breezy-hill-inn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13596/breezy-hill-inn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13596/breezy-hill-inn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:59.017Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13596/breezy-hill-inn",
+	"url": "https://www.wedding-spot.com/venue/13596/breezy-hill-inn/"
+}

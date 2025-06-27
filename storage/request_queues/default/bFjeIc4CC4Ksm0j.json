@@ -1,0 +1,9 @@
+{
+	"id": "bFjeIc4CC4Ksm0j",
+	"json": "{\"id\":\"bFjeIc4CC4Ksm0j\",\"url\":\"https://www.wedding-spot.com/venue/5077/cipriani-25-broadway/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5077/cipriani-25-broadway/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5077/cipriani-25-broadway\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:44.085Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5077/cipriani-25-broadway",
+	"url": "https://www.wedding-spot.com/venue/5077/cipriani-25-broadway/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "z0flcIcLZSyhDyf",
+	"json": "{\"id\":\"z0flcIcLZSyhDyf\",\"url\":\"https://www.wedding-spot.com/venue/11977/dumbo-kitchen-event-space/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11977/dumbo-kitchen-event-space/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11977/dumbo-kitchen-event-space\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:43.204Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11977/dumbo-kitchen-event-space",
+	"url": "https://www.wedding-spot.com/venue/11977/dumbo-kitchen-event-space/"
+}

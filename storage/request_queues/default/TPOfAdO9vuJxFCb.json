@@ -1,0 +1,9 @@
+{
+	"id": "TPOfAdO9vuJxFCb",
+	"json": "{\"id\":\"TPOfAdO9vuJxFCb\",\"url\":\"https://www.wedding-spot.com/venue/3411/belmont-mansion/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3411/belmont-mansion/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3411/belmont-mansion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:34.786Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3411/belmont-mansion",
+	"url": "https://www.wedding-spot.com/venue/3411/belmont-mansion/"
+}

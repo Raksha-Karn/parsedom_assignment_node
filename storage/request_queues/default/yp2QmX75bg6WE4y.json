@@ -1,0 +1,9 @@
+{
+	"id": "yp2QmX75bg6WE4y",
+	"json": "{\"id\":\"yp2QmX75bg6WE4y\",\"url\":\"https://www.wedding-spot.com/venue/420/the-foundry/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/420/the-foundry/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/420/the-foundry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:00.933Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/420/the-foundry",
+	"url": "https://www.wedding-spot.com/venue/420/the-foundry/"
+}

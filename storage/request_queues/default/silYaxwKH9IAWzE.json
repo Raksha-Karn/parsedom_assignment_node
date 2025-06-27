@@ -1,0 +1,9 @@
+{
+	"id": "silYaxwKH9IAWzE",
+	"json": "{\"id\":\"silYaxwKH9IAWzE\",\"url\":\"https://www.wedding-spot.com/venue/286/delmonicos-restaurant/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/286/delmonicos-restaurant/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/286/delmonicos-restaurant\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:18.631Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/286/delmonicos-restaurant",
+	"url": "https://www.wedding-spot.com/venue/286/delmonicos-restaurant/"
+}

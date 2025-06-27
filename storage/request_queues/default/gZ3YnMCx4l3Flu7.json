@@ -1,0 +1,9 @@
+{
+	"id": "gZ3YnMCx4l3Flu7",
+	"json": "{\"id\":\"gZ3YnMCx4l3Flu7\",\"url\":\"https://www.wedding-spot.com/venue/3376/bay-pony-inn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3376/bay-pony-inn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3376/bay-pony-inn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:37.813Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3376/bay-pony-inn",
+	"url": "https://www.wedding-spot.com/venue/3376/bay-pony-inn/"
+}

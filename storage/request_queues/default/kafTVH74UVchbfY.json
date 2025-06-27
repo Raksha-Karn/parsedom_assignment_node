@@ -1,0 +1,9 @@
+{
+	"id": "kafTVH74UVchbfY",
+	"json": "{\"id\":\"kafTVH74UVchbfY\",\"url\":\"https://www.wedding-spot.com/venue/4228/east-greenville-fire-hall-banquet-hall/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4228/east-greenville-fire-hall-banquet-hall/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4228/east-greenville-fire-hall-banquet-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:11.605Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/4228/east-greenville-fire-hall-banquet-hall",
+	"url": "https://www.wedding-spot.com/venue/4228/east-greenville-fire-hall-banquet-hall/"
+}

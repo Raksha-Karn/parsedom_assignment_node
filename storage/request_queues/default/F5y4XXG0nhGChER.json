@@ -1,0 +1,9 @@
+{
+	"id": "F5y4XXG0nhGChER",
+	"json": "{\"id\":\"F5y4XXG0nhGChER\",\"url\":\"https://www.wedding-spot.com/venue/8720/mables-smokehouse-banquet-hall/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/8720/mables-smokehouse-banquet-hall/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/8720/mables-smokehouse-banquet-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:13.547Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/8720/mables-smokehouse-banquet-hall",
+	"url": "https://www.wedding-spot.com/venue/8720/mables-smokehouse-banquet-hall/"
+}

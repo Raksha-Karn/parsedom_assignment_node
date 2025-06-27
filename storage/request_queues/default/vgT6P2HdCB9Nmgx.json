@@ -1,0 +1,9 @@
+{
+	"id": "vgT6P2HdCB9Nmgx",
+	"json": "{\"id\":\"vgT6P2HdCB9Nmgx\",\"url\":\"https://www.wedding-spot.com/venue/12109/lombardis-on-the-bay/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12109/lombardis-on-the-bay/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12109/lombardis-on-the-bay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:23.496Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12109/lombardis-on-the-bay",
+	"url": "https://www.wedding-spot.com/venue/12109/lombardis-on-the-bay/"
+}

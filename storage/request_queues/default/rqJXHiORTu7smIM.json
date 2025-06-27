@@ -1,0 +1,9 @@
+{
+	"id": "rqJXHiORTu7smIM",
+	"json": "{\"id\":\"rqJXHiORTu7smIM\",\"url\":\"https://www.wedding-spot.com/venue/3160/madame-tussauds-new-york/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3160/madame-tussauds-new-york/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3160/madame-tussauds-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:13.167Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3160/madame-tussauds-new-york",
+	"url": "https://www.wedding-spot.com/venue/3160/madame-tussauds-new-york/"
+}

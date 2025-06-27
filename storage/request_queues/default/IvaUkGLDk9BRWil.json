@@ -1,0 +1,9 @@
+{
+	"id": "IvaUkGLDk9BRWil",
+	"json": "{\"id\":\"IvaUkGLDk9BRWil\",\"url\":\"https://www.wedding-spot.com/venue/5359/tonawanda-castle/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5359/tonawanda-castle/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5359/tonawanda-castle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:16.091Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5359/tonawanda-castle",
+	"url": "https://www.wedding-spot.com/venue/5359/tonawanda-castle/"
+}

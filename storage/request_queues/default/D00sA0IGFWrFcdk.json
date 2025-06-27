@@ -1,0 +1,9 @@
+{
+	"id": "D00sA0IGFWrFcdk",
+	"json": "{\"id\":\"D00sA0IGFWrFcdk\",\"url\":\"https://www.wedding-spot.com/venue/1814/central-park-zoo/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1814/central-park-zoo/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1814/central-park-zoo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:39.525Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1814/central-park-zoo",
+	"url": "https://www.wedding-spot.com/venue/1814/central-park-zoo/"
+}

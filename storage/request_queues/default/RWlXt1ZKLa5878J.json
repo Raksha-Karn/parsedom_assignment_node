@@ -1,0 +1,9 @@
+{
+	"id": "RWlXt1ZKLa5878J",
+	"json": "{\"id\":\"RWlXt1ZKLa5878J\",\"url\":\"https://www.wedding-spot.com/venue/15228/mohawk-golf-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/15228/mohawk-golf-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/15228/mohawk-golf-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:11.134Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/15228/mohawk-golf-club",
+	"url": "https://www.wedding-spot.com/venue/15228/mohawk-golf-club/"
+}

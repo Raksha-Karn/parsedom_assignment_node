@@ -1,0 +1,9 @@
+{
+	"id": "armyQ7I49dXyyUx",
+	"json": "{\"id\":\"armyQ7I49dXyyUx\",\"url\":\"https://www.wedding-spot.com/venue/285/the-view-at-oakdale/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/285/the-view-at-oakdale/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/285/the-view-at-oakdale\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:51.248Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/285/the-view-at-oakdale",
+	"url": "https://www.wedding-spot.com/venue/285/the-view-at-oakdale/"
+}

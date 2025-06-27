@@ -1,0 +1,40 @@
+{
+  "requestsFinished": 740,
+  "requestsFailed": 0,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 388,
+  "requestMinDurationMillis": 588,
+  "requestMaxDurationMillis": 4982,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 819652,
+  "crawlerStartedAt": "2025-06-26T22:05:27.976Z",
+  "crawlerFinishedAt": "2025-06-26T22:07:22.209Z",
+  "statsPersistedAt": "2025-06-26T22:07:22.209Z",
+  "crawlerRuntimeMillis": 114437,
+  "crawlerLastStartTimestamp": 1750975527772,
+  "requestRetryHistogram": [
+    739,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 1108,
+  "requestTotalDurationMillis": 819652,
+  "requestsTotal": 740,
+  "requestsWithStatusCode": {
+    "502": 1
+  },
+  "errors": {},
+  "retryErrors": {
+    "/home/raksha/code/parsedom_assignment_node/node_modules/@crawlee/http/internals/http-crawler.js:486:19": {
+      "missing error code": {
+        "Error": {
+          "502 - Internal Server Error: <!DOCTYPE html>": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

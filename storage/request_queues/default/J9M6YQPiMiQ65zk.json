@@ -1,0 +1,9 @@
+{
+	"id": "J9M6YQPiMiQ65zk",
+	"json": "{\"id\":\"J9M6YQPiMiQ65zk\",\"url\":\"https://www.wedding-spot.com/venue/3067/general-warren/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3067/general-warren/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3067/general-warren\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:06.123Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3067/general-warren",
+	"url": "https://www.wedding-spot.com/venue/3067/general-warren/"
+}

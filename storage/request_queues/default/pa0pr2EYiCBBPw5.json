@@ -1,0 +1,9 @@
+{
+	"id": "pa0pr2EYiCBBPw5",
+	"json": "{\"id\":\"pa0pr2EYiCBBPw5\",\"url\":\"https://www.wedding-spot.com/venue/14766/tuffet/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/14766/tuffet/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/14766/tuffet\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:33.850Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/14766/tuffet",
+	"url": "https://www.wedding-spot.com/venue/14766/tuffet/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "yxWEQ35VmlHVDq7",
+	"json": "{\"id\":\"yxWEQ35VmlHVDq7\",\"url\":\"https://www.wedding-spot.com/venue/4516/cozara/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4516/cozara/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4516/cozara\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:11.324Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/4516/cozara",
+	"url": "https://www.wedding-spot.com/venue/4516/cozara/"
+}

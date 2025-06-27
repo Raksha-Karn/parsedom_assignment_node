@@ -1,0 +1,9 @@
+{
+	"id": "9n0cvQomFYi7vNk",
+	"json": "{\"id\":\"9n0cvQomFYi7vNk\",\"url\":\"https://www.wedding-spot.com/venue/4574/salt-creek-grille-rumson/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4574/salt-creek-grille-rumson/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4574/salt-creek-grille-rumson\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:49.444Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/4574/salt-creek-grille-rumson",
+	"url": "https://www.wedding-spot.com/venue/4574/salt-creek-grille-rumson/"
+}

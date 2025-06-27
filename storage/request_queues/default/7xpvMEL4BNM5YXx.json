@@ -1,0 +1,9 @@
+{
+	"id": "7xpvMEL4BNM5YXx",
+	"json": "{\"id\":\"7xpvMEL4BNM5YXx\",\"url\":\"https://www.wedding-spot.com/venue/662/il-tulipano/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/662/il-tulipano/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/662/il-tulipano\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:50.372Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/662/il-tulipano",
+	"url": "https://www.wedding-spot.com/venue/662/il-tulipano/"
+}

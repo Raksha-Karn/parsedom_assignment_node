@@ -1,0 +1,9 @@
+{
+	"id": "lyIe75fQyu5dOIy",
+	"json": "{\"id\":\"lyIe75fQyu5dOIy\",\"url\":\"https://www.wedding-spot.com/venue/5504/strand-book-store/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5504/strand-book-store/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5504/strand-book-store\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:33.395Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5504/strand-book-store",
+	"url": "https://www.wedding-spot.com/venue/5504/strand-book-store/"
+}

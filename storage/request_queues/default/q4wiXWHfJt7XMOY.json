@@ -1,0 +1,9 @@
+{
+	"id": "q4wiXWHfJt7XMOY",
+	"json": "{\"id\":\"q4wiXWHfJt7XMOY\",\"url\":\"https://www.wedding-spot.com/venue/5534/white-eagle-banquet-conference-center/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5534/white-eagle-banquet-conference-center/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5534/white-eagle-banquet-conference-center\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:05.141Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5534/white-eagle-banquet-conference-center",
+	"url": "https://www.wedding-spot.com/venue/5534/white-eagle-banquet-conference-center/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "KcRCyZDV2o9aJBH",
+	"json": "{\"id\":\"KcRCyZDV2o9aJBH\",\"url\":\"https://www.wedding-spot.com/venue/3448/celebration-inc/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3448/celebration-inc/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3448/celebration-inc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:21.951Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3448/celebration-inc",
+	"url": "https://www.wedding-spot.com/venue/3448/celebration-inc/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GoB3ncyxet4WxAd",
+	"json": "{\"id\":\"GoB3ncyxet4WxAd\",\"url\":\"https://www.wedding-spot.com/venue/5078/cipriani-wall-street/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5078/cipriani-wall-street/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5078/cipriani-wall-street\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:30.483Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5078/cipriani-wall-street",
+	"url": "https://www.wedding-spot.com/venue/5078/cipriani-wall-street/"
+}

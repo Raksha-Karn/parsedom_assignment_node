@@ -1,0 +1,9 @@
+{
+	"id": "8k8fpS2QW5MAEho",
+	"json": "{\"id\":\"8k8fpS2QW5MAEho\",\"url\":\"https://www.wedding-spot.com/venue/1602/knitting-factory-brooklyn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1602/knitting-factory-brooklyn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1602/knitting-factory-brooklyn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:14.301Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1602/knitting-factory-brooklyn",
+	"url": "https://www.wedding-spot.com/venue/1602/knitting-factory-brooklyn/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "RhsO8B1NeQrMuGr",
+	"json": "{\"id\":\"RhsO8B1NeQrMuGr\",\"url\":\"https://www.wedding-spot.com/venue/15206/talamore-country-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/15206/talamore-country-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/15206/talamore-country-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:00.955Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/15206/talamore-country-club",
+	"url": "https://www.wedding-spot.com/venue/15206/talamore-country-club/"
+}

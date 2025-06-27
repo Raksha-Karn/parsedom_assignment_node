@@ -1,0 +1,9 @@
+{
+	"id": "BL3Hclznvwm2x42",
+	"json": "{\"id\":\"BL3Hclznvwm2x42\",\"url\":\"https://www.wedding-spot.com/venue/1480/metropolitan-pavilion/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1480/metropolitan-pavilion/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1480/metropolitan-pavilion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:39.526Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1480/metropolitan-pavilion",
+	"url": "https://www.wedding-spot.com/venue/1480/metropolitan-pavilion/"
+}

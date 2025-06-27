@@ -1,0 +1,9 @@
+{
+	"id": "GqyBzvlyyPmB4Xx",
+	"json": "{\"id\":\"GqyBzvlyyPmB4Xx\",\"url\":\"https://www.wedding-spot.com/venue/5060/il-buco-alimentari-vineria/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5060/il-buco-alimentari-vineria/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5060/il-buco-alimentari-vineria\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:07.835Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5060/il-buco-alimentari-vineria",
+	"url": "https://www.wedding-spot.com/venue/5060/il-buco-alimentari-vineria/"
+}

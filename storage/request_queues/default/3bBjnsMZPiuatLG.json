@@ -1,0 +1,9 @@
+{
+	"id": "3bBjnsMZPiuatLG",
+	"json": "{\"id\":\"3bBjnsMZPiuatLG\",\"url\":\"https://www.wedding-spot.com/venue/5560/doubletree-by-hilton-fairfield-hotel-suites/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5560/doubletree-by-hilton-fairfield-hotel-suites/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5560/doubletree-by-hilton-fairfield-hotel-suites\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:54.866Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5560/doubletree-by-hilton-fairfield-hotel-suites",
+	"url": "https://www.wedding-spot.com/venue/5560/doubletree-by-hilton-fairfield-hotel-suites/"
+}

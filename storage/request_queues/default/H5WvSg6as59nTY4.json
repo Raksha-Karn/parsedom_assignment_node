@@ -1,0 +1,9 @@
+{
+	"id": "H5WvSg6as59nTY4",
+	"json": "{\"id\":\"H5WvSg6as59nTY4\",\"url\":\"https://www.wedding-spot.com/venue/10096/tumblin-falls-house/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10096/tumblin-falls-house/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10096/tumblin-falls-house\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:10.503Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/10096/tumblin-falls-house",
+	"url": "https://www.wedding-spot.com/venue/10096/tumblin-falls-house/"
+}

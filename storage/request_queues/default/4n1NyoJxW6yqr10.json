@@ -1,0 +1,9 @@
+{
+	"id": "4n1NyoJxW6yqr10",
+	"json": "{\"id\":\"4n1NyoJxW6yqr10\",\"url\":\"https://www.wedding-spot.com/venue/661/the-grand-hotel/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/661/the-grand-hotel/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/661/the-grand-hotel\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:43.456Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/661/the-grand-hotel",
+	"url": "https://www.wedding-spot.com/venue/661/the-grand-hotel/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ajtSDoulQXW1lse",
+	"json": "{\"id\":\"ajtSDoulQXW1lse\",\"url\":\"https://www.wedding-spot.com/venue/9319/the-arkell-museum/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9319/the-arkell-museum/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9319/the-arkell-museum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:58.221Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9319/the-arkell-museum",
+	"url": "https://www.wedding-spot.com/venue/9319/the-arkell-museum/"
+}

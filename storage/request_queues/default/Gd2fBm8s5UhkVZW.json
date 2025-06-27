@@ -1,0 +1,9 @@
+{
+	"id": "Gd2fBm8s5UhkVZW",
+	"json": "{\"id\":\"Gd2fBm8s5UhkVZW\",\"url\":\"https://www.wedding-spot.com/venue/1731/soho-grand-hotel/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1731/soho-grand-hotel/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1731/soho-grand-hotel\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:27.789Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1731/soho-grand-hotel",
+	"url": "https://www.wedding-spot.com/venue/1731/soho-grand-hotel/"
+}

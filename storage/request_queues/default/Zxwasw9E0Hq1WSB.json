@@ -1,0 +1,9 @@
+{
+	"id": "Zxwasw9E0Hq1WSB",
+	"json": "{\"id\":\"Zxwasw9E0Hq1WSB\",\"url\":\"https://www.wedding-spot.com/venue/231/le-cirque/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/231/le-cirque/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/231/le-cirque\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:56.782Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/231/le-cirque",
+	"url": "https://www.wedding-spot.com/venue/231/le-cirque/"
+}

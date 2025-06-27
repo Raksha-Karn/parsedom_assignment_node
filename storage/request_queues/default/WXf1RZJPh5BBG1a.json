@@ -1,0 +1,9 @@
+{
+	"id": "WXf1RZJPh5BBG1a",
+	"json": "{\"id\":\"WXf1RZJPh5BBG1a\",\"url\":\"https://www.wedding-spot.com/venue/5662/avenue-new-york/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5662/avenue-new-york/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5662/avenue-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:37.842Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5662/avenue-new-york",
+	"url": "https://www.wedding-spot.com/venue/5662/avenue-new-york/"
+}

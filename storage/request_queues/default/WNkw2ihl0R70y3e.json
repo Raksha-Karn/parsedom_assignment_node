@@ -1,0 +1,9 @@
+{
+	"id": "WNkw2ihl0R70y3e",
+	"json": "{\"id\":\"WNkw2ihl0R70y3e\",\"url\":\"https://www.wedding-spot.com/venue/2252/cnvs-event-venue-midtown-nyc/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/2252/cnvs-event-venue-midtown-nyc/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/2252/cnvs-event-venue-midtown-nyc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:48.449Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/2252/cnvs-event-venue-midtown-nyc",
+	"url": "https://www.wedding-spot.com/venue/2252/cnvs-event-venue-midtown-nyc/"
+}

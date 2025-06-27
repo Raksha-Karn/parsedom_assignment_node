@@ -1,0 +1,9 @@
+{
+	"id": "f60BRch4VCyjk09",
+	"json": "{\"id\":\"f60BRch4VCyjk09\",\"url\":\"https://www.wedding-spot.com/venue/5463/the-press-lounge/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5463/the-press-lounge/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5463/the-press-lounge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:32.448Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5463/the-press-lounge",
+	"url": "https://www.wedding-spot.com/venue/5463/the-press-lounge/"
+}

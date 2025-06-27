@@ -1,0 +1,9 @@
+{
+	"id": "h941YEizpNi6xGq",
+	"json": "{\"id\":\"h941YEizpNi6xGq\",\"url\":\"https://www.wedding-spot.com/venue/3175/bridgetown-mill-house-restaurant-inn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3175/bridgetown-mill-house-restaurant-inn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3175/bridgetown-mill-house-restaurant-inn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:06.950Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3175/bridgetown-mill-house-restaurant-inn",
+	"url": "https://www.wedding-spot.com/venue/3175/bridgetown-mill-house-restaurant-inn/"
+}

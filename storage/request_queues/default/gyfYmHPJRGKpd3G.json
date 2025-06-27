@@ -1,0 +1,9 @@
+{
+	"id": "gyfYmHPJRGKpd3G",
+	"json": "{\"id\":\"gyfYmHPJRGKpd3G\",\"url\":\"https://www.wedding-spot.com/venue/2151/st-bartholomews-church/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/2151/st-bartholomews-church/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/2151/st-bartholomews-church\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:23.822Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/2151/st-bartholomews-church",
+	"url": "https://www.wedding-spot.com/venue/2151/st-bartholomews-church/"
+}

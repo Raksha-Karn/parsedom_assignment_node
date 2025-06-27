@@ -1,0 +1,9 @@
+{
+	"id": "b7RoSUvj6gzrd6S",
+	"json": "{\"id\":\"b7RoSUvj6gzrd6S\",\"url\":\"https://www.wedding-spot.com/venue/1430/bohemian-benevolent-and-literary-association/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1430/bohemian-benevolent-and-literary-association/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1430/bohemian-benevolent-and-literary-association\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:12.018Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1430/bohemian-benevolent-and-literary-association",
+	"url": "https://www.wedding-spot.com/venue/1430/bohemian-benevolent-and-literary-association/"
+}

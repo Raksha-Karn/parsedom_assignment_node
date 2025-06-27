@@ -1,0 +1,9 @@
+{
+	"id": "qThRclYxH1IkqLf",
+	"json": "{\"id\":\"qThRclYxH1IkqLf\",\"url\":\"https://www.wedding-spot.com/venue/3424/william-way-lgbt-community-center/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3424/william-way-lgbt-community-center/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3424/william-way-lgbt-community-center\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:32.431Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3424/william-way-lgbt-community-center",
+	"url": "https://www.wedding-spot.com/venue/3424/william-way-lgbt-community-center/"
+}

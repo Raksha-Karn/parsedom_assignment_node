@@ -1,0 +1,9 @@
+{
+	"id": "JtXF4f5txZ37ePJ",
+	"json": "{\"id\":\"JtXF4f5txZ37ePJ\",\"url\":\"https://www.wedding-spot.com/venue/1429/chart-house-weehawken/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1429/chart-house-weehawken/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1429/chart-house-weehawken\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:49.547Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1429/chart-house-weehawken",
+	"url": "https://www.wedding-spot.com/venue/1429/chart-house-weehawken/"
+}

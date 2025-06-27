@@ -1,0 +1,9 @@
+{
+	"id": "0CZtJGAjXmxvNZp",
+	"json": "{\"id\":\"0CZtJGAjXmxvNZp\",\"url\":\"https://www.wedding-spot.com/venue/14651/gore-mountain/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/14651/gore-mountain/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/14651/gore-mountain\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:05.285Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/14651/gore-mountain",
+	"url": "https://www.wedding-spot.com/venue/14651/gore-mountain/"
+}

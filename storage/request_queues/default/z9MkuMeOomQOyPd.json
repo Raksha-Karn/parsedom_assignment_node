@@ -1,0 +1,9 @@
+{
+	"id": "z9MkuMeOomQOyPd",
+	"json": "{\"id\":\"z9MkuMeOomQOyPd\",\"url\":\"https://www.wedding-spot.com/venue/5537/melrose-ballroom/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5537/melrose-ballroom/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5537/melrose-ballroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:40.820Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5537/melrose-ballroom",
+	"url": "https://www.wedding-spot.com/venue/5537/melrose-ballroom/"
+}

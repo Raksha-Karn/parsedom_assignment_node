@@ -1,0 +1,9 @@
+{
+	"id": "pD1epZmCvnNz3ju",
+	"json": "{\"id\":\"pD1epZmCvnNz3ju\",\"url\":\"https://www.wedding-spot.com/venue/289/delmonicos-kitchen/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/289/delmonicos-kitchen/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/289/delmonicos-kitchen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:16.800Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/289/delmonicos-kitchen",
+	"url": "https://www.wedding-spot.com/venue/289/delmonicos-kitchen/"
+}

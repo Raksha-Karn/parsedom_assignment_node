@@ -1,0 +1,9 @@
+{
+	"id": "wTe008YfVGXYPPJ",
+	"json": "{\"id\":\"wTe008YfVGXYPPJ\",\"url\":\"https://www.wedding-spot.com/venue/1619/yachts-for-all-seasons-cornucopia-majesty/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1619/yachts-for-all-seasons-cornucopia-majesty/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1619/yachts-for-all-seasons-cornucopia-majesty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:50.992Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1619/yachts-for-all-seasons-cornucopia-majesty",
+	"url": "https://www.wedding-spot.com/venue/1619/yachts-for-all-seasons-cornucopia-majesty/"
+}

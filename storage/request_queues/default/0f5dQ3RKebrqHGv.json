@@ -1,0 +1,9 @@
+{
+	"id": "0f5dQ3RKebrqHGv",
+	"json": "{\"id\":\"0f5dQ3RKebrqHGv\",\"url\":\"https://www.wedding-spot.com/venue/1847/greek-peak-mountain-resort/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1847/greek-peak-mountain-resort/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1847/greek-peak-mountain-resort\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:58.758Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1847/greek-peak-mountain-resort",
+	"url": "https://www.wedding-spot.com/venue/1847/greek-peak-mountain-resort/"
+}

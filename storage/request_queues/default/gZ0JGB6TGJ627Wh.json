@@ -1,0 +1,9 @@
+{
+	"id": "gZ0JGB6TGJ627Wh",
+	"json": "{\"id\":\"gZ0JGB6TGJ627Wh\",\"url\":\"https://www.wedding-spot.com/venue/5224/ramada-watertown/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5224/ramada-watertown/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5224/ramada-watertown\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:10.904Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5224/ramada-watertown",
+	"url": "https://www.wedding-spot.com/venue/5224/ramada-watertown/"
+}

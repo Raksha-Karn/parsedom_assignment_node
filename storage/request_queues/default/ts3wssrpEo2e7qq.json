@@ -1,0 +1,9 @@
+{
+	"id": "ts3wssrpEo2e7qq",
+	"json": "{\"id\":\"ts3wssrpEo2e7qq\",\"url\":\"https://www.wedding-spot.com/venue/4759/ria-mar-restaurant-bar/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4759/ria-mar-restaurant-bar/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4759/ria-mar-restaurant-bar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:54.425Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/4759/ria-mar-restaurant-bar",
+	"url": "https://www.wedding-spot.com/venue/4759/ria-mar-restaurant-bar/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "q1klXy88stc5Q2t",
+	"json": "{\"id\":\"q1klXy88stc5Q2t\",\"url\":\"https://www.wedding-spot.com/venue/9296/freds-at-barneys-new-york/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9296/freds-at-barneys-new-york/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9296/freds-at-barneys-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:18.824Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9296/freds-at-barneys-new-york",
+	"url": "https://www.wedding-spot.com/venue/9296/freds-at-barneys-new-york/"
+}

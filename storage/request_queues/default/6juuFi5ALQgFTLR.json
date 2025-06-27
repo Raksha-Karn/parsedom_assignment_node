@@ -1,0 +1,9 @@
+{
+	"id": "6juuFi5ALQgFTLR",
+	"json": "{\"id\":\"6juuFi5ALQgFTLR\",\"url\":\"https://www.wedding-spot.com/venue/9806/tarallucci-e-vino-union-square/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9806/tarallucci-e-vino-union-square/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9806/tarallucci-e-vino-union-square\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:48.972Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9806/tarallucci-e-vino-union-square",
+	"url": "https://www.wedding-spot.com/venue/9806/tarallucci-e-vino-union-square/"
+}

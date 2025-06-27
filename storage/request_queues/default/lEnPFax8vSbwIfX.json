@@ -1,0 +1,9 @@
+{
+	"id": "lEnPFax8vSbwIfX",
+	"json": "{\"id\":\"lEnPFax8vSbwIfX\",\"url\":\"https://www.wedding-spot.com/venue/9864/north-sea-tavern/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9864/north-sea-tavern/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9864/north-sea-tavern\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:59.456Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9864/north-sea-tavern",
+	"url": "https://www.wedding-spot.com/venue/9864/north-sea-tavern/"
+}

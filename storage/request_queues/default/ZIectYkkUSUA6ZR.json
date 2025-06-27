@@ -1,0 +1,9 @@
+{
+	"id": "ZIectYkkUSUA6ZR",
+	"json": "{\"id\":\"ZIectYkkUSUA6ZR\",\"url\":\"https://www.wedding-spot.com/venue/814/delta-hotel-philadelphia-airport/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/814/delta-hotel-philadelphia-airport/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/814/delta-hotel-philadelphia-airport\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:12.785Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/814/delta-hotel-philadelphia-airport",
+	"url": "https://www.wedding-spot.com/venue/814/delta-hotel-philadelphia-airport/"
+}

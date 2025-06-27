@@ -1,0 +1,9 @@
+{
+	"id": "15Bx7EYW3mzmcyS",
+	"json": "{\"id\":\"15Bx7EYW3mzmcyS\",\"url\":\"https://www.wedding-spot.com/venue/15232/the-lambertville-house/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/15232/the-lambertville-house/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/15232/the-lambertville-house\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:49.809Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/15232/the-lambertville-house",
+	"url": "https://www.wedding-spot.com/venue/15232/the-lambertville-house/"
+}

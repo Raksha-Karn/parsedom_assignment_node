@@ -1,0 +1,9 @@
+{
+	"id": "nNvNxkGuhqWccG3",
+	"json": "{\"id\":\"nNvNxkGuhqWccG3\",\"url\":\"https://www.wedding-spot.com/venue/3383/above/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3383/above/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3383/above\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:15.615Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3383/above",
+	"url": "https://www.wedding-spot.com/venue/3383/above/"
+}

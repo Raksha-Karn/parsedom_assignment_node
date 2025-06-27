@@ -1,0 +1,9 @@
+{
+	"id": "7UrK9OVdoTbBD5z",
+	"json": "{\"id\":\"7UrK9OVdoTbBD5z\",\"url\":\"https://www.wedding-spot.com/venue/5219/zanger-hall/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5219/zanger-hall/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5219/zanger-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:01.632Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5219/zanger-hall",
+	"url": "https://www.wedding-spot.com/venue/5219/zanger-hall/"
+}

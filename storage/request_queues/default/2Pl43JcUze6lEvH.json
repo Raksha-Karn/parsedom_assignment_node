@@ -1,0 +1,9 @@
+{
+	"id": "2Pl43JcUze6lEvH",
+	"json": "{\"id\":\"2Pl43JcUze6lEvH\",\"url\":\"https://www.wedding-spot.com/venue/1964/pera-soho/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1964/pera-soho/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1964/pera-soho\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:34.067Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/1964/pera-soho",
+	"url": "https://www.wedding-spot.com/venue/1964/pera-soho/"
+}

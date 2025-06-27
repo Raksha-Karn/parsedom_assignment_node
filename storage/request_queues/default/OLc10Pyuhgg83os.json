@@ -1,0 +1,9 @@
+{
+	"id": "OLc10Pyuhgg83os",
+	"json": "{\"id\":\"OLc10Pyuhgg83os\",\"url\":\"https://www.wedding-spot.com/venue/9308/parkside-lounge/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9308/parkside-lounge/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9308/parkside-lounge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:22.263Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9308/parkside-lounge",
+	"url": "https://www.wedding-spot.com/venue/9308/parkside-lounge/"
+}

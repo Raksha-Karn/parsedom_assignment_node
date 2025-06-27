@@ -1,0 +1,9 @@
+{
+	"id": "NgoFSzbjUZcZ1lB",
+	"json": "{\"id\":\"NgoFSzbjUZcZ1lB\",\"url\":\"https://www.wedding-spot.com/venue/7207/nautical-holidays-majestic-princess/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/7207/nautical-holidays-majestic-princess/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/7207/nautical-holidays-majestic-princess\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:54.863Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/7207/nautical-holidays-majestic-princess",
+	"url": "https://www.wedding-spot.com/venue/7207/nautical-holidays-majestic-princess/"
+}

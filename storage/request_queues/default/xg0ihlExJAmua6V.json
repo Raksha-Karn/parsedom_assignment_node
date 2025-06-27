@@ -1,0 +1,9 @@
+{
+	"id": "xg0ihlExJAmua6V",
+	"json": "{\"id\":\"xg0ihlExJAmua6V\",\"url\":\"https://www.wedding-spot.com/venue/5201/updike-farmstead/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/5201/updike-farmstead/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/5201/updike-farmstead\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:50.857Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/5201/updike-farmstead",
+	"url": "https://www.wedding-spot.com/venue/5201/updike-farmstead/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4PGZm1pkXw6nklp",
+	"json": "{\"id\":\"4PGZm1pkXw6nklp\",\"url\":\"https://www.wedding-spot.com/venue/13573/arte-caf/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13573/arte-caf/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13573/arte-caf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:34.427Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13573/arte-caf",
+	"url": "https://www.wedding-spot.com/venue/13573/arte-caf/"
+}

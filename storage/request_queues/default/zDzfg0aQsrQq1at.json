@@ -1,0 +1,9 @@
+{
+	"id": "zDzfg0aQsrQq1at",
+	"json": "{\"id\":\"zDzfg0aQsrQq1at\",\"url\":\"https://www.wedding-spot.com/venue/10076/the-loft-at-sawmill-golf-course/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10076/the-loft-at-sawmill-golf-course/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10076/the-loft-at-sawmill-golf-course\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:42.492Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/10076/the-loft-at-sawmill-golf-course",
+	"url": "https://www.wedding-spot.com/venue/10076/the-loft-at-sawmill-golf-course/"
+}

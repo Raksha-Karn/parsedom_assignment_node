@@ -1,0 +1,9 @@
+{
+	"id": "sgpr6L6TED9Kyjt",
+	"json": "{\"id\":\"sgpr6L6TED9Kyjt\",\"url\":\"https://www.wedding-spot.com/venue/13751/hotel-saranac/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13751/hotel-saranac/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13751/hotel-saranac\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:08.885Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13751/hotel-saranac",
+	"url": "https://www.wedding-spot.com/venue/13751/hotel-saranac/"
+}

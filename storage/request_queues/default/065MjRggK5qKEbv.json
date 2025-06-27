@@ -1,0 +1,9 @@
+{
+	"id": "065MjRggK5qKEbv",
+	"json": "{\"id\":\"065MjRggK5qKEbv\",\"url\":\"https://www.wedding-spot.com/venue/14197/the-shelburne-hotel-suites/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/14197/the-shelburne-hotel-suites/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/14197/the-shelburne-hotel-suites\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:39.155Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/14197/the-shelburne-hotel-suites",
+	"url": "https://www.wedding-spot.com/venue/14197/the-shelburne-hotel-suites/"
+}

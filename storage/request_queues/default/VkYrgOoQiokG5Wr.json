@@ -1,0 +1,9 @@
+{
+	"id": "VkYrgOoQiokG5Wr",
+	"json": "{\"id\":\"VkYrgOoQiokG5Wr\",\"url\":\"https://www.wedding-spot.com/venue/9820/18-label-studios/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9820/18-label-studios/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9820/18-label-studios\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:54.304Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9820/18-label-studios",
+	"url": "https://www.wedding-spot.com/venue/9820/18-label-studios/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "P9YVe9jDQXqk6Qk",
+	"json": "{\"id\":\"P9YVe9jDQXqk6Qk\",\"url\":\"https://www.wedding-spot.com/venue/12611/the-windsor-suites/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12611/the-windsor-suites/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12611/the-windsor-suites\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:11.320Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12611/the-windsor-suites",
+	"url": "https://www.wedding-spot.com/venue/12611/the-windsor-suites/"
+}

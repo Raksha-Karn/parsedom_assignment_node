@@ -1,0 +1,9 @@
+{
+	"id": "43gJZ6qp9MXCeIk",
+	"json": "{\"id\":\"43gJZ6qp9MXCeIk\",\"url\":\"https://www.wedding-spot.com/venue/9250/utica-zoo/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9250/utica-zoo/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9250/utica-zoo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:11.606Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9250/utica-zoo",
+	"url": "https://www.wedding-spot.com/venue/9250/utica-zoo/"
+}

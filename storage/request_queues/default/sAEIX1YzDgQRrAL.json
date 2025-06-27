@@ -1,0 +1,9 @@
+{
+	"id": "sAEIX1YzDgQRrAL",
+	"json": "{\"id\":\"sAEIX1YzDgQRrAL\",\"url\":\"https://www.wedding-spot.com/venue/13678/lagrande-park-pavilion/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13678/lagrande-park-pavilion/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13678/lagrande-park-pavilion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:53.474Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13678/lagrande-park-pavilion",
+	"url": "https://www.wedding-spot.com/venue/13678/lagrande-park-pavilion/"
+}

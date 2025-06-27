@@ -1,0 +1,9 @@
+{
+	"id": "tGEhSOZbhYhYSTX",
+	"json": "{\"id\":\"tGEhSOZbhYhYSTX\",\"url\":\"https://www.wedding-spot.com/venue/12694/owls-hoot-barn/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12694/owls-hoot-barn/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12694/owls-hoot-barn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:22.001Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/12694/owls-hoot-barn",
+	"url": "https://www.wedding-spot.com/venue/12694/owls-hoot-barn/"
+}

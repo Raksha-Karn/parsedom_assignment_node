@@ -1,0 +1,9 @@
+{
+	"id": "vErDUJZA7r6qKDC",
+	"json": "{\"id\":\"vErDUJZA7r6qKDC\",\"url\":\"https://www.wedding-spot.com/venue/3885/the-1912-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3885/the-1912-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3885/the-1912-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:07.058Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/3885/the-1912-club",
+	"url": "https://www.wedding-spot.com/venue/3885/the-1912-club/"
+}

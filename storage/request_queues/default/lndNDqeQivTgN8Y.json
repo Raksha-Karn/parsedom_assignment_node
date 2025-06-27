@@ -1,0 +1,9 @@
+{
+	"id": "lndNDqeQivTgN8Y",
+	"json": "{\"id\":\"lndNDqeQivTgN8Y\",\"url\":\"https://www.wedding-spot.com/venue/9165/leftys-tavern/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9165/leftys-tavern/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9165/leftys-tavern\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:38.655Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9165/leftys-tavern",
+	"url": "https://www.wedding-spot.com/venue/9165/leftys-tavern/"
+}

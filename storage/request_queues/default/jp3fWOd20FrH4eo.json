@@ -1,0 +1,9 @@
+{
+	"id": "jp3fWOd20FrH4eo",
+	"json": "{\"id\":\"jp3fWOd20FrH4eo\",\"url\":\"https://www.wedding-spot.com/venue/11583/slc-conference-center/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11583/slc-conference-center/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11583/slc-conference-center\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:19.193Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11583/slc-conference-center",
+	"url": "https://www.wedding-spot.com/venue/11583/slc-conference-center/"
+}

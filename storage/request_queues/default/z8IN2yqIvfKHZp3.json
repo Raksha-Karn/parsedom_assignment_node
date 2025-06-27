@@ -1,0 +1,9 @@
+{
+	"id": "z8IN2yqIvfKHZp3",
+	"json": "{\"id\":\"z8IN2yqIvfKHZp3\",\"url\":\"https://www.wedding-spot.com/venue/11619/bern-farm/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11619/bern-farm/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11619/bern-farm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:06.221Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/11619/bern-farm",
+	"url": "https://www.wedding-spot.com/venue/11619/bern-farm/"
+}

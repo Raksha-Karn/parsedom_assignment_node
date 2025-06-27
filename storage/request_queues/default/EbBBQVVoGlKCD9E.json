@@ -1,0 +1,9 @@
+{
+	"id": "EbBBQVVoGlKCD9E",
+	"json": "{\"id\":\"EbBBQVVoGlKCD9E\",\"url\":\"https://www.wedding-spot.com/venue/900/pyramid-club/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/900/pyramid-club/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/900/pyramid-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:44.409Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/900/pyramid-club",
+	"url": "https://www.wedding-spot.com/venue/900/pyramid-club/"
+}

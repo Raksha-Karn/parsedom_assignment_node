@@ -1,0 +1,9 @@
+{
+	"id": "UMtuoK5M2muYXbI",
+	"json": "{\"id\":\"UMtuoK5M2muYXbI\",\"url\":\"https://www.wedding-spot.com/venue/6214/chic-design-events/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/6214/chic-design-events/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/6214/chic-design-events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:06.020Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/6214/chic-design-events",
+	"url": "https://www.wedding-spot.com/venue/6214/chic-design-events/"
+}

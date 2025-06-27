@@ -1,0 +1,9 @@
+{
+	"id": "yVX5fAVpUta7I4d",
+	"json": "{\"id\":\"yVX5fAVpUta7I4d\",\"url\":\"https://www.wedding-spot.com/venue/2627/the-links-at-union-vale/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/2627/the-links-at-union-vale/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/2627/the-links-at-union-vale\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:21.130Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/2627/the-links-at-union-vale",
+	"url": "https://www.wedding-spot.com/venue/2627/the-links-at-union-vale/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "XTxAu9nr5dL5iHb",
+	"json": "{\"id\":\"XTxAu9nr5dL5iHb\",\"url\":\"https://www.wedding-spot.com/venue/10192/the-vineyards-at-aquebogue/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10192/the-vineyards-at-aquebogue/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10192/the-vineyards-at-aquebogue\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:55.357Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/10192/the-vineyards-at-aquebogue",
+	"url": "https://www.wedding-spot.com/venue/10192/the-vineyards-at-aquebogue/"
+}

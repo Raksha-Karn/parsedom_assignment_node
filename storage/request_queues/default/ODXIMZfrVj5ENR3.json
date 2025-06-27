@@ -1,0 +1,9 @@
+{
+	"id": "ODXIMZfrVj5ENR3",
+	"json": "{\"id\":\"ODXIMZfrVj5ENR3\",\"url\":\"https://www.wedding-spot.com/venue/9351/vernon-downs-casino-hotel/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9351/vernon-downs-casino-hotel/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9351/vernon-downs-casino-hotel\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:10.059Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/9351/vernon-downs-casino-hotel",
+	"url": "https://www.wedding-spot.com/venue/9351/vernon-downs-casino-hotel/"
+}

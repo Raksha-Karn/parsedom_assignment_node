@@ -1,0 +1,9 @@
+{
+	"id": "6s3U6JcbGWUuXpF",
+	"json": "{\"id\":\"6s3U6JcbGWUuXpF\",\"url\":\"https://www.wedding-spot.com/venue/13554/the-craftsmann-inn-conference-center/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13554/the-craftsmann-inn-conference-center/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13554/the-craftsmann-inn-conference-center\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:09.172Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.wedding-spot.com/venue/13554/the-craftsmann-inn-conference-center",
+	"url": "https://www.wedding-spot.com/venue/13554/the-craftsmann-inn-conference-center/"
+}
