@@ -1,6 +1,6 @@
 {
 	"id": "bVto4lgukIc9KqM",
-	"json": "{\"id\":\"bVto4lgukIc9KqM\",\"url\":\"https://www.wedding-spot.com/venue/10163/lakotas-farm-weddings-events/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10163/lakotas-farm-weddings-events/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10163/lakotas-farm-weddings-events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:20.678Z\"}",
+	"json": "{\"id\":\"bVto4lgukIc9KqM\",\"url\":\"https://www.wedding-spot.com/venue/10163/lakotas-farm-weddings-events/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10163/lakotas-farm-weddings-events/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10163/lakotas-farm-weddings-events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:56:50.644Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

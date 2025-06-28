@@ -1,9 +1,9 @@
 {
 	"id": "zgvSL6eh8bw1D6G",
-	"json": "{\"id\":\"zgvSL6eh8bw1D6G\",\"url\":\"https://www.wedding-spot.com/venue/3593/grey-towers-castle/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3593/grey-towers-castle/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3593/grey-towers-castle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: 502 - Internal Server Error: <!DOCTYPE html>\\n<html>\\n  <head>\\n    <link rel=\\\"stylesheet\\\" href=\\\"maintenance-page-files/css/style.cs\\n    at CheerioCrawler._parseResponse (/home/raksha/code/parsedom_assignment_node/node_modules/@crawlee/http/internals/http-crawler.js:486:19)\\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\\n    at async CheerioCrawler._runRequestHandler (/home/raksha/code/parsedom_assignment_node/node_modules/@crawlee/http/internals/http-crawler.js:305:28)\\n    at async CheerioCrawler._runRequestHandler (/home/raksha/code/parsedom_assignment_node/node_modules/@crawlee/cheerio/internals/cheerio-crawler.js:151:9)\\n    at async wrap (/home/raksha/code/parsedom_assignment_node/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:23.718Z\"}",
+	"json": "{\"id\":\"zgvSL6eh8bw1D6G\",\"url\":\"https://www.wedding-spot.com/venue/3593/grey-towers-castle/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3593/grey-towers-castle/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3593/grey-towers-castle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:55:26.227Z\"}",
 	"method": "GET",
 	"orderNo": null,
-	"retryCount": 1,
+	"retryCount": 0,
 	"uniqueKey": "https://www.wedding-spot.com/venue/3593/grey-towers-castle",
 	"url": "https://www.wedding-spot.com/venue/3593/grey-towers-castle/"
 }

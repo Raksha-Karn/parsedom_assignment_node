@@ -1,8 +1,12 @@
 {
-	"URL": "https://www.wedding-spot.com/venue/9800/spring-mill-ballroom/",
-	"Venue name": "Spring Mill Ballroom",
-	"Phone": "6102832371",
-	"Venue highlights": [],
-	"Guest capacity": "225",
-	"Address": "1210 East Hector Street Conshohocken, PA 19428"
+	"URL": "https://www.wedding-spot.com/venue/5643/bryn-athyn-college/",
+	"Venue name": "Bryn Athyn College",
+	"Phone": "2677600744",
+	"Venue highlights": [
+		"Indoor and outdoor spaces",
+		"BYO",
+		"Valet parking"
+	],
+	"Guest capacity": "400",
+	"Address": "2945 College Drive Bryn Athyn, PA 19009"
 }

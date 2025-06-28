@@ -1,8 +1,12 @@
 {
-	"URL": "https://www.wedding-spot.com/venue/4784/parsonage-barn/",
-	"Venue name": "Parsonage Barn",
-	"Phone": "6098024221",
-	"Venue highlights": [],
-	"Guest capacity": "80",
-	"Address": "3 Cranbury Neck Road Cranbury, NJ 08512"
+	"URL": "https://www.wedding-spot.com/venue/4887/sayen-house-and-gardens/",
+	"Venue name": "Sayen House and Gardens",
+	"Phone": "6098903874",
+	"Venue highlights": [
+		"Award winner",
+		"Indoor and outdoor spaces",
+		"BYO"
+	],
+	"Guest capacity": "100",
+	"Address": "155 Hughes Drive Hamilton Township, NJ 08690"
 }

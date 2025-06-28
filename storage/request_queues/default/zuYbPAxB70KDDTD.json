@@ -1,6 +1,6 @@
 {
 	"id": "zuYbPAxB70KDDTD",
-	"json": "{\"id\":\"zuYbPAxB70KDDTD\",\"url\":\"https://www.wedding-spot.com/venue/11082/acqua-banquets/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11082/acqua-banquets/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11082/acqua-banquets\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:04.842Z\"}",
+	"json": "{\"id\":\"zuYbPAxB70KDDTD\",\"url\":\"https://www.wedding-spot.com/venue/11082/acqua-banquets/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/11082/acqua-banquets/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/11082/acqua-banquets\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:56:28.783Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

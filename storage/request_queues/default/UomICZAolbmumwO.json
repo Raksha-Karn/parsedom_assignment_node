@@ -1,6 +1,6 @@
 {
 	"id": "UomICZAolbmumwO",
-	"json": "{\"id\":\"UomICZAolbmumwO\",\"url\":\"https://www.wedding-spot.com/venue/12110/villa-lombardis/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12110/villa-lombardis/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12110/villa-lombardis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:38.612Z\"}",
+	"json": "{\"id\":\"UomICZAolbmumwO\",\"url\":\"https://www.wedding-spot.com/venue/12110/villa-lombardis/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12110/villa-lombardis/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12110/villa-lombardis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:55:50.088Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

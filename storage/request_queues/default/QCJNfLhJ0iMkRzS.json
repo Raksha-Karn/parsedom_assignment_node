@@ -1,6 +1,6 @@
 {
 	"id": "QCJNfLhJ0iMkRzS",
-	"json": "{\"id\":\"QCJNfLhJ0iMkRzS\",\"url\":\"https://www.wedding-spot.com/venue/9690/barcelona-lakeside/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9690/barcelona-lakeside/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9690/barcelona-lakeside\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:00.002Z\"}",
+	"json": "{\"id\":\"QCJNfLhJ0iMkRzS\",\"url\":\"https://www.wedding-spot.com/venue/9690/barcelona-lakeside/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/9690/barcelona-lakeside/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/9690/barcelona-lakeside\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:56:21.371Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,6 +1,6 @@
 {
 	"id": "owyzgKiVuk29CxZ",
-	"json": "{\"id\":\"owyzgKiVuk29CxZ\",\"url\":\"https://www.wedding-spot.com/venue/1844/sky-armory/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1844/sky-armory/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1844/sky-armory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:18.874Z\"}",
+	"json": "{\"id\":\"owyzgKiVuk29CxZ\",\"url\":\"https://www.wedding-spot.com/venue/1844/sky-armory/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1844/sky-armory/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1844/sky-armory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:56:47.695Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

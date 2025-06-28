@@ -1,6 +1,6 @@
 {
 	"id": "SHTyQwusVCAjcNi",
-	"json": "{\"id\":\"SHTyQwusVCAjcNi\",\"url\":\"https://www.wedding-spot.com/venue/8335/sazon/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/8335/sazon/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/8335/sazon\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:12.823Z\"}",
+	"json": "{\"id\":\"SHTyQwusVCAjcNi\",\"url\":\"https://www.wedding-spot.com/venue/8335/sazon/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/8335/sazon/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/8335/sazon\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:55:12.356Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

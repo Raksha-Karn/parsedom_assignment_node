@@ -1,6 +1,6 @@
 {
 	"id": "wA4oDfKQv9DVDEx",
-	"json": "{\"id\":\"wA4oDfKQv9DVDEx\",\"url\":\"https://www.wedding-spot.com/venue/822/exton-hotel-and-conference-center-at-exton-pa/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/822/exton-hotel-and-conference-center-at-exton-pa/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/822/exton-hotel-and-conference-center-at-exton-pa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:48.109Z\"}",
+	"json": "{\"id\":\"wA4oDfKQv9DVDEx\",\"url\":\"https://www.wedding-spot.com/venue/822/exton-hotel-and-conference-center-at-exton-pa/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/822/exton-hotel-and-conference-center-at-exton-pa/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/822/exton-hotel-and-conference-center-at-exton-pa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:56:03.162Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

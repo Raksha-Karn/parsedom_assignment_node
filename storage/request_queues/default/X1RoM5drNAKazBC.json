@@ -1,6 +1,6 @@
 {
 	"id": "X1RoM5drNAKazBC",
-	"json": "{\"id\":\"X1RoM5drNAKazBC\",\"url\":\"https://www.wedding-spot.com/venue/8625/ristorante-degrezia/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/8625/ristorante-degrezia/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/8625/ristorante-degrezia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:56.909Z\"}",
+	"json": "{\"id\":\"X1RoM5drNAKazBC\",\"url\":\"https://www.wedding-spot.com/venue/8625/ristorante-degrezia/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/8625/ristorante-degrezia/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/8625/ristorante-degrezia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:54:51.599Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

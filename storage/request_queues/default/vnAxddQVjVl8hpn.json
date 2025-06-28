@@ -1,6 +1,6 @@
 {
 	"id": "vnAxddQVjVl8hpn",
-	"json": "{\"id\":\"vnAxddQVjVl8hpn\",\"url\":\"https://www.wedding-spot.com/venue/13605/banquet-hall/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13605/banquet-hall/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13605/banquet-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:19.643Z\"}",
+	"json": "{\"id\":\"vnAxddQVjVl8hpn\",\"url\":\"https://www.wedding-spot.com/venue/13605/banquet-hall/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13605/banquet-hall/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13605/banquet-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:55:23.337Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

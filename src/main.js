@@ -1,5 +1,7 @@
 import { CheerioCrawler, Dataset, log } from "crawlee";
+import fs from "fs";
 
+const scraped_data = [];
 const crawler = new CheerioCrawler({
   maxConcurrency: 5,
 
@@ -20,12 +22,13 @@ async function handleVenueListPage($, request, crawler, currentPage) {
   log.info(`Processing page ${currentPage}: ${request.url}`);
 
   const venueUrls = [];
-  $("div.onWhenS div.venueCard--wrapper > a").each((_, element) => {
-    const href = $(element).attr("href");
+  const detailPageLinks = $("div.onWhenS div.venueCard--wrapper > a");
+  for (let i = 0; i < detailPageLinks.length; i++) {
+    const href = $(detailPageLinks[i]).attr("href");
     if (href) {
       venueUrls.push(href);
     }
-  });
+  }
 
   log.info(`Found ${venueUrls.length} venues on page ${currentPage}`);
 
@@ -81,14 +84,13 @@ async function handleVenueDetail($, request) {
   }
 
   const venueHighlights = [];
-  $("div.styles--visibleMobile div.VenueHighlights--label").each(
-    (_, element) => {
-      const highlight = $(element).text().trim();
-      if (highlight) {
-        venueHighlights.push(highlight);
-      }
-    },
-  );
+  const highlights = $("div.styles--visibleMobile div.VenueHighlights--label");
+  for (let i = 0; i < highlights.length; i++) {
+    const highlight = $(highlights[i]).text().trim();
+    if (highlight) {
+      venueHighlights.push(highlight);
+    }
+  }
 
   let venueCapacity = "N/A";
   const capacityHeader = $('h3:contains("Guest capacity:")');
@@ -98,11 +100,6 @@ async function handleVenueDetail($, request) {
       const upToMatch = rawCapacity.match(/up to (\d+)/i);
       if (upToMatch) {
         venueCapacity = upToMatch[1];
-      } else {
-        const numberMatch = rawCapacity.match(/\d+/);
-        if (numberMatch) {
-          venueCapacity = numberMatch[0];
-        }
       }
     }
   }
@@ -118,14 +115,17 @@ async function handleVenueDetail($, request) {
 
   log.info(`Scraped venue: ${venueTitle}`);
 
-  await Dataset.pushData({
+  const data = {
     URL: request.url,
     "Venue name": venueTitle,
     Phone: venueNumber,
     "Venue highlights": venueHighlights,
     "Guest capacity": venueCapacity,
     Address: formattedAddress,
-  });
+  };
+  await Dataset.pushData(data);
+
+  scraped_data.push(data);
 }
 
 await crawler.run([
@@ -139,3 +139,4 @@ await crawler.run([
 ]);
 
 log.info("Crawling completed");
+fs.writeFileSync("scraped_data.json", JSON.stringify(scraped_data));

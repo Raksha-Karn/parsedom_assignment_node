@@ -1,6 +1,6 @@
 {
 	"id": "cK6YAwKdW6S5STl",
-	"json": "{\"id\":\"cK6YAwKdW6S5STl\",\"url\":\"https://www.wedding-spot.com/venue/1741/quality-italian/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1741/quality-italian/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1741/quality-italian\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:57.926Z\"}",
+	"json": "{\"id\":\"cK6YAwKdW6S5STl\",\"url\":\"https://www.wedding-spot.com/venue/1741/quality-italian/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/1741/quality-italian/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/1741/quality-italian\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:54:53.550Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

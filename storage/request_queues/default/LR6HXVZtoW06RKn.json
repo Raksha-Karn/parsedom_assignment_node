@@ -1,6 +1,6 @@
 {
 	"id": "LR6HXVZtoW06RKn",
-	"json": "{\"id\":\"LR6HXVZtoW06RKn\",\"url\":\"https://www.wedding-spot.com/venue/14106/altamura-center-for-the-arts/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/14106/altamura-center-for-the-arts/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/14106/altamura-center-for-the-arts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:59.391Z\"}",
+	"json": "{\"id\":\"LR6HXVZtoW06RKn\",\"url\":\"https://www.wedding-spot.com/venue/14106/altamura-center-for-the-arts/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/14106/altamura-center-for-the-arts/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/14106/altamura-center-for-the-arts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:56:22.890Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

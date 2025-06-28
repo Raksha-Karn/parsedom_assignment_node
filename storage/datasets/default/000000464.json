@@ -1,8 +1,11 @@
 {
-	"URL": "https://www.wedding-spot.com/venue/3332/hilton-philadelphia-at-penns-landing/",
-	"Venue name": "Hilton Philadelphia at Penn's Landing",
-	"Phone": "2155216524",
-	"Venue highlights": [],
-	"Guest capacity": "500",
-	"Address": "201 S. Christopher Columbus Blvd. Philadelphia, PA 19106"
+	"URL": "https://www.wedding-spot.com/venue/3467/blacklake-room/",
+	"Venue name": "Blacklake Room",
+	"Phone": "2156763596",
+	"Venue highlights": [
+		"Rentals included",
+		"Valet parking"
+	],
+	"Guest capacity": "230",
+	"Address": "2706 Blacklake Place  Philadelphia, PA 19154"
 }

@@ -1,6 +1,6 @@
 {
 	"id": "xL9vwKOrORgGW37",
-	"json": "{\"id\":\"xL9vwKOrORgGW37\",\"url\":\"https://www.wedding-spot.com/venue/13608/premiere-event-space/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13608/premiere-event-space/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13608/premiere-event-space\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:07.620Z\"}",
+	"json": "{\"id\":\"xL9vwKOrORgGW37\",\"url\":\"https://www.wedding-spot.com/venue/13608/premiere-event-space/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/13608/premiere-event-space/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/13608/premiere-event-space\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:55:05.893Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

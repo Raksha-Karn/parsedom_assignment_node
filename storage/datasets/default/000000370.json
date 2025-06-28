@@ -1,8 +1,11 @@
 {
-	"URL": "https://www.wedding-spot.com/venue/9803/tlo-event-complex/",
-	"Venue name": "TLO Event Complex",
-	"Phone": "9739807600",
-	"Venue highlights": [],
-	"Guest capacity": "150",
-	"Address": "1621-27 Cecil B Moore Avenue Philadelphia, PA 19121"
+	"URL": "https://www.wedding-spot.com/venue/5504/strand-book-store/",
+	"Venue name": "Strand Book Store",
+	"Phone": "2124731452",
+	"Venue highlights": [
+		"BYO",
+		"Valet parking"
+	],
+	"Guest capacity": "100",
+	"Address": "828 Broadway 3rd FloorNew York, NY 10003"
 }

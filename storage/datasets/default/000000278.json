@@ -1,8 +1,10 @@
 {
-	"URL": "https://www.wedding-spot.com/venue/11254/arena-event-space/",
-	"Venue name": "Arena Event Space",
-	"Phone": "2122780988",
-	"Venue highlights": [],
-	"Guest capacity": "120",
-	"Address": "135 West 41st Street New York, NY 10036"
+	"URL": "https://www.wedding-spot.com/venue/11583/slc-conference-center/",
+	"Venue name": "SLC Conference Center",
+	"Phone": "2122448888",
+	"Venue highlights": [
+		"Rentals included"
+	],
+	"Guest capacity": "100",
+	"Address": "15 West 39th Street New York, NY 10018"
 }

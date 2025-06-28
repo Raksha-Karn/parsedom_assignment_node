@@ -1,6 +1,6 @@
 {
 	"id": "FzptinICZQKXvRC",
-	"json": "{\"id\":\"FzptinICZQKXvRC\",\"url\":\"https://www.wedding-spot.com/venue/4199/lazaretto-ballroom/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4199/lazaretto-ballroom/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4199/lazaretto-ballroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:44.961Z\"}",
+	"json": "{\"id\":\"FzptinICZQKXvRC\",\"url\":\"https://www.wedding-spot.com/venue/4199/lazaretto-ballroom/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/4199/lazaretto-ballroom/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/4199/lazaretto-ballroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:55:59.773Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

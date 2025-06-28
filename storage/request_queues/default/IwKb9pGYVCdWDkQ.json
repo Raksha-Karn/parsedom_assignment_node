@@ -1,6 +1,6 @@
 {
 	"id": "IwKb9pGYVCdWDkQ",
-	"json": "{\"id\":\"IwKb9pGYVCdWDkQ\",\"url\":\"https://www.wedding-spot.com/venue/12214/brooklyn-society-for-ethical-culture/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12214/brooklyn-society-for-ethical-culture/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12214/brooklyn-society-for-ethical-culture\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:06:29.923Z\"}",
+	"json": "{\"id\":\"IwKb9pGYVCdWDkQ\",\"url\":\"https://www.wedding-spot.com/venue/12214/brooklyn-society-for-ethical-culture/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/12214/brooklyn-society-for-ethical-culture/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/12214/brooklyn-society-for-ethical-culture\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:55:37.280Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

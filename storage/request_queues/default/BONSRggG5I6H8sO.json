@@ -1,6 +1,6 @@
 {
 	"id": "BONSRggG5I6H8sO",
-	"json": "{\"id\":\"BONSRggG5I6H8sO\",\"url\":\"https://www.wedding-spot.com/venue/3100/e-lounge/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3100/e-lounge/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3100/e-lounge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:05:48.846Z\"}",
+	"json": "{\"id\":\"BONSRggG5I6H8sO\",\"url\":\"https://www.wedding-spot.com/venue/3100/e-lounge/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/3100/e-lounge/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/3100/e-lounge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:54:41.315Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

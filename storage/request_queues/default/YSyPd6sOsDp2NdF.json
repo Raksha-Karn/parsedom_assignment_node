@@ -1,6 +1,6 @@
 {
 	"id": "YSyPd6sOsDp2NdF",
-	"json": "{\"id\":\"YSyPd6sOsDp2NdF\",\"url\":\"https://www.wedding-spot.com/venue/10223/campagna-restaurant/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10223/campagna-restaurant/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10223/campagna-restaurant\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-26T22:07:11.088Z\"}",
+	"json": "{\"id\":\"YSyPd6sOsDp2NdF\",\"url\":\"https://www.wedding-spot.com/venue/10223/campagna-restaurant/\",\"loadedUrl\":\"https://www.wedding-spot.com/venue/10223/campagna-restaurant/\",\"uniqueKey\":\"https://www.wedding-spot.com/venue/10223/campagna-restaurant\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"VENUE_DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-06-28T09:56:36.957Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,
